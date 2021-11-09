@@ -6,7 +6,7 @@ ant-design-vue的UI框架中，并没有colorPicker颜色选择器，但是在�
 
 效果
 
-![](C:\Users\rober\Desktop\color-picker.png)
+![](http://cloud-fae.oss-cn-shenzhen.aliyuncs.com/cyz_admin/color-picker.png)
 
 ## 文档
 
